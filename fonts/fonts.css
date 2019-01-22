@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'gothambold1';
+    src: url('../fonts/gothambold1.eot');
+    src: url('../fonts/gothambold1.eot') format('embedded-opentype'),
+         url('../fonts/gothambold1.woff2') format('woff2'),
+         url('../fonts/gothambold1.woff') format('woff'),
+         url('../fonts/gothambold1.ttf') format('truetype'),
+         url('../fonts/gothambold1.svg#gothambold1') format('svg');
+}
+
+@font-face {
+    font-family: 'GothaProBol';
+    src: url('../fonts/GothaProBol.eot');
+    src: url('../fonts/GothaProBol.eot') format('embedded-opentype'),
+         url('../fonts/GothaProBol.woff2') format('woff2'),
+         url('../fonts/GothaProBol.woff') format('woff'),
+         url('../fonts/GothaProBol.ttf') format('truetype'),
+         url('../fonts/GothaProBol.svg#GothaProBol') format('svg');
+}
+
+@font-face {
+    font-family: 'libertymtboldwebfont';
+    src: url('../fonts/libertymtboldwebfont.eot');
+    src: url('../fonts/libertymtboldwebfont.eot') format('embedded-opentype'),
+         url('../fonts/libertymtboldwebfont.woff2') format('woff2'),
+         url('../fonts/libertymtboldwebfont.woff') format('woff'),
+         url('../fonts/libertymtboldwebfont.ttf') format('truetype'),
+         url('../fonts/libertymtboldwebfont.svg#libertymtboldwebfont') format('svg');
+}
+
+
+@font-face {
+    font-family: 'libertymtboldwebfont';
+    src: url('../fonts/libertymtboldwebfont.eot');
+    src: url('../fonts/libertymtboldwebfont.eot') format('embedded-opentype'),
+         url('../fonts/libertymtboldwebfont.woff2') format('woff2'),
+         url('../fonts/libertymtboldwebfont.woff') format('woff'),
+         url('../fonts/libertymtboldwebfont.ttf') format('truetype'),
+         url('../fonts/libertymtboldwebfont.svg#libertymtboldwebfont') format('svg');
+}
+
+
+@font-face {
+    font-family: 'libertymtmediumwebfont';
+    src: url('../fonts/libertymtmediumwebfont.eot');
+    src: url('../fonts/libertymtmediumwebfont.eot') format('embedded-opentype'),
+         url('../fonts/libertymtmediumwebfont.woff2') format('woff2'),
+         url('../fonts/libertymtmediumwebfont.woff') format('woff'),
+         url('../fonts/libertymtmediumwebfont.ttf') format('truetype'),
+         url('../fonts/libertymtmediumwebfont.svg#libertymtmediumwebfont') format('svg');
+}
+
+
+@font-face {
+    font-family: 'libertynusmediumwebfont';
+    src: url('../fonts/libertynusmediumwebfont.eot');
+    src: url('../fonts/libertynusmediumwebfont.eot') format('embedded-opentype'),
+         url('../fonts/libertynusmediumwebfont.woff2') format('woff2'),
+         url('../fonts/libertynusmediumwebfont.woff') format('woff'),
+         url('../fonts/libertynusmediumwebfont.ttf') format('truetype'),
+         url('../fonts/libertynusmediumwebfont.svg#libertynusmediumwebfont') format('svg');
+}
+
+
+@font-face {
+    font-family: 'libertynusregularwebfont';
+    src: url('../fonts/libertynusregularwebfont.eot');
+    src: url('../fonts/libertynusregularwebfont.eot') format('embedded-opentype'),
+         url('../fonts/libertynusregularwebfont.woff2') format('woff2'),
+         url('../fonts/libertynusregularwebfont.woff') format('woff'),
+         url('../fonts/libertynusregularwebfont.ttf') format('truetype'),
+         url('../fonts/libertynusregularwebfont.svg#libertynusregularwebfont') format('svg');
+}

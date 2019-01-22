@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'gothambold1';
+    src: url('fonts/gothambold1.eot');
+    src: url('fonts/gothambold1.eot') format('embedded-opentype'),
+         url('fonts/gothambold1.woff2') format('woff2'),
+         url('fonts/gothambold1.woff') format('woff'),
+         url('fonts/gothambold1.ttf') format('truetype'),
+         url('fonts/gothambold1.svg#gothambold1') format('svg');
+}
